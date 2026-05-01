@@ -1,2 +1,1 @@
-# Boats-Yachts-_scan_
-PythonD Fin project
+Dataset source: https://www.kaggle.com/datasets/karthikbhandary2/boat-sales
